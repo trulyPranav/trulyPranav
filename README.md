@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiAlkylCadmium
+- 👋 Hi, I’m Pranav 
 - 👀 I’m interested in Seeking Knowledge and to impart the same to daily applications
 - 🌱 I’m currently learning Backend Developing, initially with Python and plan to moved ahead with Django
 - 💞️ I've just started my UnderGrad Education, took a Computer Science major
