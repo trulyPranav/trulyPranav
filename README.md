@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranav M</h1>
 <h3 align="center">An inquistive and adaptable developer</h3>
 
-<p align="left"> <a href="https://twitter.com/pranav072_" target="blank"><img src="https://img.shields.io/twitter/follow/pranav072_?logo=twitter&style=for-the-badge" alt="pranav072_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pranav072_" target="blank"><img src="https://img.shields.io/twitter/follow/pranav072_?logo=twitter&style=for-the-badge" alt="pranav072_" /></a>
+  
+
+<a href="https://github.com/trulyPranav/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulyPranav&layout=compact&langs_count=8&card_width=340&theme=transparent" />
+</a>
+</p>
 
 - 🌱 I’m currently learning **react and react native**
 
