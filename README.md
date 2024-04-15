@@ -2,10 +2,8 @@
 <h3 align="center">An inquistive and adaptable developer</h3>
 
 <p align="left"> <a href="https://twitter.com/pranav072_" target="blank"><img src="https://img.shields.io/twitter/follow/pranav072_?logo=twitter&style=for-the-badge" alt="pranav072_" /></a>
-  
-
-<a href="https://github.com/trulyPranav/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulyPranav&layout=compact&langs_count=8&card_width=340&theme=transparent" />
+<a href="https://github.com/trulyPranav/github-readme-stats">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=trulyPranav&theme=transparent" />
 </a>
 </p>
 
@@ -20,16 +18,18 @@
 <a href="https://instagram.com/pranav072_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav072_" height="30" width="40" /></a>
 </p>
 <hr>
+<p> 
 <h3 align="left">Languages</h3>
-<p align="left"> 
+<a href="https://github.com/trulyPranav/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulyPranav&layout=compact&langs_count=8&card_width=435&theme=transparent" />
+</a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">Tools:</h3>
 <p>
+<h3 align="left">Tools:</h3>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
