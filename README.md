@@ -14,9 +14,10 @@
 - 💬 Ask me about **flutter, django and UI/UX**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <a href="https://twitter.com/pranav072_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav072_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav072" height="30" width="40" /></a>
