@@ -9,9 +9,9 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **react and react native**
+- 🌱 I’m currently learning **React.js and Next.js**
 
-- 💬 Ask me about **flutter, django and UI/UX**
+- 💬 Ask me about **Flutter, django and UI/UX**
 
 <h3 align="left">Connect with me:</h3>
 <p>
