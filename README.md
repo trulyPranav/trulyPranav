@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav M</h1>
-<h3 align="center">An inquistive and adaptable developer</h3>
+<h3 align="center">An inquisitive and adaptable developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trulyPranav&label=Profile%20Views&color=0e75b6&style=flat" alt="mrwonder2" /> </p>
 
