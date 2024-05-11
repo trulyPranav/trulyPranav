@@ -45,6 +45,7 @@
 </p>
 <br>
 <br>
+<br>
 <p>
   <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=trulyPranav&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=458&card_height=200" alt="GitHub Streak" /></a>
 </p>
