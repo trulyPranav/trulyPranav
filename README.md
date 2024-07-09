@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 💬 Ask me about **Flutter, django and UI/UX**
+- 💬 Ask me about **Flutter, C++, Python and UI/UX**
 
 <h3 align="left">Connect with me:</h3>
 <p>
