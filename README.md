@@ -31,7 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://github.com/trulyPranav/convoychat">
-  <img height=200 width=462 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulyPranav&layout=compact&langs_count=6&card_width=435&theme=transparent" />
+  <img height=200 width=462 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=trulyPranav&layout=compact&langs_count=6&card_width=435&theme=transparent&count_private=true" />
 </a>
 </p>
 <p>
