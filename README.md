@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav M</h1>
 <h3 align="center">An Inquisitive and Adaptable Developer</h3>
+<p align="center">Flutter. Python. DevOps.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trulyPranav&label=Profile%20Views&color=0e75b6&style=flat" alt="trulyPranav" /> </p>
   <a href="https://github.com/trulyPranav/github-readme-stats">
     <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=trulyPranav&theme=transparent" />
