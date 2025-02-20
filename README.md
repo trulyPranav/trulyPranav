@@ -43,3 +43,5 @@
 <p>
   <a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats-sigma-bice.vercel.app?user=trulyPranav&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=458&card_height=200" alt="GitHub Streak" /></a>
 </p>
+
+<p align="bottom"><sup>Congrats! You found this first! Hmu for building a cool project, I'm in dire need of a collab!</sup></p>
