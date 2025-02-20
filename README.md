@@ -53,4 +53,4 @@
 <br>
 <br>
 <br>
-<p align="bottom"><sup>Congrats! You found this first! Hmu for building a cool project, I'm in dire need of a collab!</sup></p>
+<p align="bottom"><sup>Congrats! You found this first! Hmu thru <a href="https://www.linkedin.com/in/pranav072">linkedin</a> for building a cool project, I'm in dire need of a collab!</sup></p>
