@@ -43,14 +43,3 @@
 <p>
   <a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats-sigma-bice.vercel.app?user=trulyPranav&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=458&card_height=200" alt="GitHub Streak" /></a>
 </p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p align="bottom"><sup>Congrats! You found this first! Hmu thru <a href="https://www.linkedin.com/in/pranav072">linkedin</a> for building a cool project, I'm in dire need of a collab!</sup></p>
