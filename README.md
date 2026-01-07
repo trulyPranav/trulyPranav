@@ -2,13 +2,10 @@
 <h3 align="center">An Inquisitive and Adaptable Developer</h3>
 <p align="center">Flutter. Python. DevOps.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trulyPranav&label=Profile%20Views&color=0e75b6&style=flat" alt="trulyPranav" /> </p>
-  <a href="https://github.com/trulyPranav/github-readme-stats">
+  <!-- <a href="https://github.com/trulyPranav/github-readme-stats">
     <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=trulyPranav&theme=transparent" />
   </a>
-</p>
-
-- 🌱 I’m currently learning **React.js and Next.js**
-- 💬 Ask me about **Flutter, C++, Python and UI/UX**
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p>
@@ -17,7 +14,8 @@
   <a href="https://linkedin.com/in/pranav072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav072" height="30" width="40" /></a>
   <a href="https://instagram.com/pranav072_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav072_" height="30" width="40" /></a>
 </p>
-<p> 
+<hr>
+<!-- <p> 
   <hr>
   <h3 align="left">Languages</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -42,4 +40,4 @@
 <br>
 <p>
   <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=trulyPranav&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=458&card_height=200" alt="GitHub Streak" /></a>
-</p>
+</p> -->
