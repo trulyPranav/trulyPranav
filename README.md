@@ -6,9 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Backend+Developer;DevOps+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=trulyPranav&icon=0&color=0" alt="Profile Views" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trulyPranav&label=Profile%20Views&color=0e75b6&style=flat" alt="trulyPranav" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p>
