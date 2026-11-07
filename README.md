@@ -1,4 +1,6 @@
-<h1 align="center">Pranav M</h1>
+<h1 align="center">
+  <img src="assets/banner.svg" alt="Pranav M" width="100%" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trulyPranav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,7 +18,7 @@
   <!-- <a href="https://twitter.com/pranav072_"><img src="https://img.shields.io/badge/X-@pranav072__-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a> -->
 </p>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🧭 The short version
 
@@ -24,7 +26,7 @@
   <img src="assets/projects.svg" alt="SNIVRA: book the chair, not the queue. PSpace: your phone's private vault. ICGAIFE: a conclave on GenAI, online. Excel: a tech fest in your pocket." width="100%" />
 </p>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 💈 SNIVRA: skip the waiting room
 
@@ -64,7 +66,7 @@ Two editions (2024 and 2025) of the official app for Excel, the tech fest of Gov
 
 <sub>`Flutter` · `Firebase` · `BLoC`</sub>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🛠️ Toolbox
 
@@ -84,11 +86,13 @@ Two editions (2024 and 2025) of the official app for Excel, the tech fest of Gov
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-<br/>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🌱 Right now
 
-Getting comfortable with **Kubernetes** and **CI/CD**, so what I build ships as smoothly as it runs.
+<p align="center">
+  <img src="assets/terminal.svg" alt="Building SNIVRA, learning Kubernetes and CI/CD, open to ideas worth shipping" width="640" />
+</p>
 
 <br/>
 
