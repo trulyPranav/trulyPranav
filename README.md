@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pranav072"><img src="https://img.shields.io/badge/LinkedIn-pranav072-0e75b6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/pranav072_"><img src="https://img.shields.io/badge/X-@pranav072__-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <!-- <a href="https://twitter.com/pranav072_"><img src="https://img.shields.io/badge/X-@pranav072__-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a> -->
 </p>
 
 <br/>
