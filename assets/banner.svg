@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" font-family="'Inter','SF Pro Display','Segoe UI',-apple-system,Helvetica,Arial,sans-serif">
+<title>Pranav M: mobile apps and the backends behind them</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1018"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3b82f6" stop-opacity=".22"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6" stop-opacity="0"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<radialGradient id="fade" cx=".5" cy=".5" r=".6"><stop offset=".3" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="m"><rect width="900" height="240" fill="url(#fade)"/></mask>
+<clipPath id="c"><rect width="900" height="240" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="900" height="240" fill="url(#bg)"/>
+<rect width="900" height="240" fill="url(#grid)" mask="url(#m)"/>
+<ellipse cx="450" cy="120" rx="360" ry="130" fill="url(#glow)">
+<animate attributeName="cx" values="400;500;400" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+</ellipse>
+<text x="450" y="78" text-anchor="middle" font-size="12" font-weight="500" fill="#8b98b0" letter-spacing="5">MOBILE  ·  BACKEND  ·  PRODUCT</text>
+<text x="450" y="140" text-anchor="middle" font-size="60" font-weight="600" fill="#f3f5f9" letter-spacing="-1.5">Pranav M</text>
+<rect x="390" y="162" width="120" height="1.5" fill="url(#rule)"/>
+<text x="450" y="194" text-anchor="middle" font-size="16" font-weight="400" fill="#aab4c8">I build mobile apps, and the backends that hold them up.</text>
+</g>
+<rect x=".5" y=".5" width="899" height="239" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
